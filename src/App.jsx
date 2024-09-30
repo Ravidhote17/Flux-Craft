@@ -3,7 +3,7 @@ import Navbar from './components/Navbar'
 import LandingPage from './components/LandingPage'
 import Marquee from './components/Marquee'
 import About from './components/About'
-import Eyes from './components/eyes'
+import Eyes from './components/Eyes'
 import Features from './components/Features'
 import Footer from './components/Footer'
 
